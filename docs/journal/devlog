@@ -3,7 +3,6 @@
 JOURNAL_FILE="journal.md"
 DATE=$(date +"%B %d, %Y")
 ENTRY_TEMPLATE="
-
 ## 📅 $DATE
 
 ### ✅ What I Did
